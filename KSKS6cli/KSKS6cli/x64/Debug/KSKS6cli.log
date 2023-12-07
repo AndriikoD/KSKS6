@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\LR6\KSKS6cli\KSKS6cli\MyForm.h(64,28): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+C:\LR6\KSKS6cli\KSKS6cli\MyForm.h(64,28): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\LR6\KSKS6cli\KSKS6cli\MyForm.h(64,28): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\LR6\KSKS6cli\KSKS6cli\MyForm.h(64,28): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\LR6\KSKS6cli\KSKS6cli\MyForm.h(64,28): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\LR6\KSKS6cli\KSKS6cli\MyForm.h(64,28): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\LR6\KSKS6cli\KSKS6cli\MyForm.h(64,28): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KSKS6cli.vcxproj -> C:\LR6\KSKS6cli\x64\Debug\KSKS6cli.exe
